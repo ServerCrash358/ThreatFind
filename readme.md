@@ -125,7 +125,7 @@ ThreatFind/
 
 ## Installation
 ```bash
-git clone https://github.com/<your-username>/ThreatFind.git  
+https://github.com/ServerCrash358/ThreatFind.git 
 cd ThreatFind  
 
 python -m venv venv  
