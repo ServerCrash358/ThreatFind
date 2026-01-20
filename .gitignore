@@ -1,0 +1,56 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv
+
+# Firebase
+serviceAccountKey.json
+.firebaserc
+
+# Data
+data/raw/
+data/processed/
+data/images/
+
+# Models (too large for GitHub)
+models/*.pth
+models/ids_vit.pth
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+package-lock.json
+
+# Firebase
+.firebase/
+firebase-debug.log
+firestore-debug.log
+
+# Logs
+*.log

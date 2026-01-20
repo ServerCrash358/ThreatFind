@@ -1,0 +1,29 @@
+[
+  {
+    "id": "T1071",
+    "name": "Application Layer Protocol",
+    "description": "Adversaries may communicate using application layer protocols to avoid detection",
+    "tactics": [
+      "Command and Control"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1071"
+  },
+  {
+    "id": "T1190",
+    "name": "Exploit Public-Facing Application",
+    "description": "Adversaries may attempt to exploit public-facing applications",
+    "tactics": [
+      "Initial Access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1190"
+  },
+  {
+    "id": "T1566",
+    "name": "Phishing",
+    "description": "Adversaries may send phishing messages to gain access",
+    "tactics": [
+      "Initial Access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1566"
+  }
+]
